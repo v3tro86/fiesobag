@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: FiesoBag
+## Notes: All bags in one window, with sorting and lockable slots.
+## Notes-deDE: Alle Taschen in einem Fenster, mit Sortierung und sperrbaren Plätzen.
+## Author: FiesoBag
+## Version: 1.3.3
+## SavedVariables: FiesoBagDB
+## SavedVariablesPerCharacter: FiesoBagCharDB
+
+FiesoBag.lua
